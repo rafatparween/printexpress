@@ -3,7 +3,7 @@ import PrintIcon from '@mui/icons-material/Print';
 
 const Navbar = () => {
   return (
-    <nav className="border  shadow-2xl bg-[#1E3A8A] ">
+    <nav className="border shadow-2xl bg-gradient-to-r from-[#3B82F6] to-[#1E3A8A] ">
       <div className="flex gap-5 items-center py-3">
         {/* <Link to="/">
           {' '}
