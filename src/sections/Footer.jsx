@@ -96,7 +96,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="text-center text-gray-100 mt-8">
-          &copy; {new Date().getFullYear()} Hewlett Hub solutions. All rights
+          &copy; {new Date().getFullYear()} printexpress123. All rights
           reserved.
         </div>
       </div>
